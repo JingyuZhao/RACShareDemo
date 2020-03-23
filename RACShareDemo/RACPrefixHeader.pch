@@ -1,0 +1,14 @@
+//
+//  RACPrefixHeader.pch
+//  RACShareDemo
+//
+//  Created by zhaojingyu on 2020/3/17.
+//  Copyright © 2020 Shoufuyou. All rights reserved.
+//
+
+#ifndef RACPrefixHeader_pch
+#define RACPrefixHeader_pch
+
+#import <ReactiveObjC.h>
+
+#endif /* RACPrefixHeader_pch */
