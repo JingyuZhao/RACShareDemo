@@ -64,7 +64,7 @@ RACDisposable:用于取消订阅或者清理资源，当信号发送完成或者
 5. NSNotification
 6. 定时器
 
-## sRAC的高级使用
+## RAC的高级使用
 
 1. 其他信号类RACSuject、RACReplaySubject
 2. RACCommand的使用
